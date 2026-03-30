@@ -4,7 +4,7 @@ import tempfile
 import librosa
 import librosa.display
 import matplotlib.pyplot as plt
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 from feature_extraction import extract_features
 
 # ---------------- CONFIG ----------------
