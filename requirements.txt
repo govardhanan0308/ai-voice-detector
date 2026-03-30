@@ -2,7 +2,6 @@ streamlit
 numpy
 librosa
 matplotlib
-keras
+tensorflow
 soundfile
 scipy
-h5py
